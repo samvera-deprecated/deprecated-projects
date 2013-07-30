@@ -15,7 +15,7 @@ Out dated projects have been a source of confusion for new adopters who stumble 
 
 #### How do we deprecate projects?
 
-1. The repository containing the project to be deprecated is cloned from github as is.
+1. The repository containing the project to be deprecated is cloned from github **as is**, including all branches.
 1. The `origin` remote is removed.
 1. The repository is compressed to `.zip` and/or `.tgz` and added to the `deprecated-projects` repository in a directory of the same name as the deprecated project.
 
