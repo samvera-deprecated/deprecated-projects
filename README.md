@@ -1,4 +1,3 @@
-deprecated-projects
-===================
+## Deprecated Projects
 
-Projects that are no longer actively maintained by the Hydra community.
+This repository contains copies of deprecated projects that are no longer maintained by the Hydra community.
